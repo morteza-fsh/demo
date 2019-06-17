@@ -10,5 +10,14 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "products": {
+    "id": "1001",
+    "title": "lipstick",
+    "name": "Golden",
+    "price": "$234.00",
+    "desc": "sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe",
+    "hits": "HITS",
+    "stars": "1<NUMBER<5"
   }
 }
