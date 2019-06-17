@@ -18,6 +18,55 @@
     "price": "$234.00",
     "desc": "sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe",
     "hits": "HITS",
-    "stars": "1<NUMBER<5"
+    "stars": "1<NUMBER<5",
+    "colors": [
+      {
+        "text": "brown",
+        "value": "#2356264"
+      },
+      {
+        "text": "lightbrown",
+        "value": "#8977987"
+      },
+      {
+        "text": "darkbrown",
+        "value": "#56765756"
+      }
+    ],
+    "image": "IMAGEurl",
+    "categoryId": "1111",
+    "productDetails": {
+      "productDescription": "some explaination",
+      "benefits": "benefits",
+      "howToUse": "howToUse",
+      "Ingredients": "Ingredients"
+    },
+    "MakeUpArtist": [
+      {
+        "Name": "lili",
+        "content": "blah blah blah",
+        "satisfy": "Number"
+      }
+    ],
+    "tutorialsVideo": [
+      {
+        "id": "23",
+        "file": "asdada",
+        "url": "sdazs"
+      }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "WriterName": "lil",
+        "datePublish": "11 17  2017",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea ",
+      }
+    ],
+    "offer": {
+      "enable": "",
+      "persontage": ""
+    },
+    "availability": ""
   }
 }
