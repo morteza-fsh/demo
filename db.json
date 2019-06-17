@@ -21,18 +21,7 @@
       "hits": "HITS",
       "stars": "1<NUMBER<5",
       "image": "IMAGEurl",
-      "categoryId": "1111",
-      "productDetails": {
-        "productDescription": "some explaination",
-        "benefits": "benefits",
-        "howToUse": "howToUse",
-        "Ingredients": "Ingredients"
-      },
-      "offer": {
-        "enable": "",
-        "persontage": ""
-      },
-      "availability": ""
+      "categoryId": "1111"
     }
   ]
 }
