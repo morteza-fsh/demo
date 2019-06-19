@@ -22,19 +22,21 @@
       "stars": "1<NUMBER<5",
       "image": "IMAGEurl",
       "categoryid": "categoryId1",
-      "categoryname":"lips"
+      "categoryname":"lips",
+      "new":"true"
     },
     {
       "id": "1002",
       "title": "pancake",
-      "name": "Golden",
+      "name": "Bronze",
       "price": "$234.00",
       "desc": "sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe",
       "hits": "HITS",
       "stars": "1<NUMBER<5",
       "image": "IMAGEurl",
       "categoryid": "categoryId2",
-      "categoryname":"face"
+      "categoryname":"face",
+      "new":"false"
     }
   ]
 }
