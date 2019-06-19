@@ -21,8 +21,8 @@
       "hits": "HITS",
       "stars": "1<NUMBER<5",
       "image": "IMAGEurl",
-      "categoryId": "categoryId1",
-      "categoryName":"lips"
+      "categoryid": "categoryId1",
+      "categoryname":"lips"
     },
     {
       "id": "1002",
@@ -33,8 +33,8 @@
       "hits": "HITS",
       "stars": "1<NUMBER<5",
       "image": "IMAGEurl",
-      "categoryId": "categoryId2",
-      "categoryName":"face"
+      "categoryid": "categoryId2",
+      "categoryname":"face"
     }
   ]
 }
