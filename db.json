@@ -34,7 +34,7 @@
       "stars": "1<NUMBER<5",
       "image": "IMAGEurl",
       "categoryId": "categoryId2",
-      "categoryName":"face",
+      "categoryName":"face"
     }
   ]
 }
