@@ -8,8 +8,25 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "singleProduct": {
+    "id": "1001",
+    "title": "lipstick",
+    "name": "Golden",
+    "price": 234.00,
+    "desc": "sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe",
+    "hits": "10 Reviews",
+    "stars": "1 < NUMBER < 5",
+    "image": "IMAGEurl",
+    "categoryid": "categoryId1",
+    "categoryname": "lips",
+    "new": "true",
+    "imgUrl": "//media.gucci.com/style/White_South_0_160_235x235/1554389107/586168_9PLP7_9501_001_100_0000_Light-501-Constance-Vermillon-Rouge-Lvres-Satin-Lipstick.jpg",
+    "imgUrl2": "//media.gucci.com/style/White_South_0_160_235x235/1554382805/586169_9PLP8_9525_001_100_0000_Light-25-Goldie-Red-Rouge-Lvres-Voile-Lipstick.jpg",
+    "imgUrl3":"https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1554382805/586169_9PLP8_9525_001_100_0000_Light-25-Goldie-Red-Rouge-Lvres-Voile-Lipstick.jpg",
+    "weight":"0.2 Oz",
+    "description":"For Europe, we offer Free Express shipping with all orders (except for those delivered with the Saturday delivery option). From the moment the order leaves our warehouse, we deliver in 1-2 business days (or 2-3 business days in UAE), if not differently specified in the product availability information. All orders are processed Monday through Saturday (Saturday only where the service is available and has been selected), excluding Sunday and holidays.Additional shipping information is available during the checkout process.",
+    "benefits":"You must inform Gucci of your intention to return the merchandise within 14 days of the date of delivery either by (i) directly returning the merchandise to Gucci together with the original invoice duly filled-in; or (ii) sending to Gucci the form downloadable here or any other unequivocal statement and then returning to Gucci the merchandise with the original invoice duly filled-in within 14 days after the day on which you sent the form (or any other unequivocal statement) to Gucci. You can use the free return label provided with each shipment to return your purchase. Refunds will be issued in the same form as was utilized for payment."
+
   },
   "products":  [
     {
@@ -23,7 +40,9 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId1",
       "categoryname":"lips",
-      "new":"true"
+      "new":"true",
+      "imgUrl" : "https://media.gucci.com/content/DarkGray_ProductPush_Standard_700x700/1558442705/ProductPush_5764211DBAX6663_001_Light.jpg"
+
     },
     {
       "id": "10012",
@@ -36,7 +55,8 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId1",
       "categoryname":"lips",
-      "new":"true"
+      "new":"true",
+      "imgUrl":"https://media.gucci.com/content/BestOfEditsFeatured_Standard_432x364/1545313503/BestOfEditsFeatured_AlchemistCollection-ACQUA-FadingAutumn_001_Default.jpg"
     },
     {
       "id": "1002",
