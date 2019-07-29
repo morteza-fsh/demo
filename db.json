@@ -71,7 +71,9 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId2",
       "categoryname":"face",
-      "new":"false"
+      "new":"false",
+      "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1531751407/401268_99999_0099_001_100_0000_Light-Gucci-Bamboo-50ml-Eau-de-Parfum.jpg",
+      "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1531751407/401268_99999_0099_002_100_0000_Light.jpg"
     },
     {
       "id": "10021",
@@ -84,7 +86,9 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId2",
       "categoryname":"face",
-      "new":"false"
+      "new":"false",
+      "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1554385508/586168_9PLP7_9502_001_100_0000_Light-502-Eadie-Scarlet-Rouge-Lvres-Satin-Lippenstift.jpg",
+      "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1554385508/586168_9PLP7_9502_002_100_0000_Light.jpg"
     },
     {
       "id": "1003",
@@ -97,7 +101,9 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId3",
       "categoryname":"brush",
-      "new":"false"
+      "new":"false",
+      "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1554383706/586169_9PLP8_9301_001_100_0000_Light-301-Mae-Coral-Rouge-Lvres-Voile-Lippenstift.jpg",
+      "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1554383706/586169_9PLP8_9301_002_100_0000_Light.jpg"
     },
     {
       "id": "10031",
@@ -110,7 +116,9 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId3",
       "categoryname":"brush",
-      "new":"false"
+      "new":"false",
+      "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1554987603/586170_9PLP9_9001_001_100_0000_Light-1-Joslyn-Clair-Baume-Lvres-Lip-Balm.jpg",
+      "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1554987603/586170_9PLP9_9001_002_100_0000_Light-1-Joslyn-Clair-Baume-Lvres-Lip-Balm.jpg"
     },
     {
       "id": "1004",
@@ -123,7 +131,9 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId4",
       "categoryname":"nail",
-      "new":"false"
+      "new":"false",
+      "imgUrl": "",
+      "imgUrl1": ""
     },
     {
       "id": "10041",
@@ -136,7 +146,9 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId4",
       "categoryname":"nail",
-      "new":"false"
+      "new":"false",
+      "imgUrl": "",
+      "imgUrl1": ""
     }
   ]
 }
