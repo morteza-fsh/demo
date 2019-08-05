@@ -8,6 +8,24 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "categories":[
+    {
+      "id" : "1",
+      "name":"lips"
+    },
+    {
+      "id" : "2",
+      "name":"face"
+    },
+    {
+      "id" : "3",
+      "name":"brush"
+    },
+    {
+      "id" : "3",
+      "name":"nail"
+    }
+  ] ,
   "singleProduct": {
     "id": "1001",
     "hits":"45",
