@@ -37,7 +37,7 @@
     "image": "IMAGEurl",
     "categoryid": "categoryId1",
     "categoryname": "lips",
-    "new": "true",
+    "new": true,
     "imgUrl": "//media.gucci.com/style/White_South_0_160_235x235/1554389107/586168_9PLP7_9501_001_100_0000_Light-501-Constance-Vermillon-Rouge-Lvres-Satin-Lipstick.jpg",
     "imgUrl2": "//media.gucci.com/style/White_South_0_160_235x235/1554382805/586169_9PLP8_9525_001_100_0000_Light-25-Goldie-Red-Rouge-Lvres-Voile-Lipstick.jpg",
     "imgUrl3":"https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1554382805/586169_9PLP8_9525_001_100_0000_Light-25-Goldie-Red-Rouge-Lvres-Voile-Lipstick.jpg",
@@ -58,7 +58,7 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId1",
       "categoryname":"lips",
-      "new":"true",
+      "new":true,
       "imgUrl" : "http://media.gucci.com/style/DarkGray_South_0_160_316x316/1563810304/563041_99999_0099_001_100_0000_Light-Gucci-Flora-Emerald-Gardenia-100-ml-Eau-de-Toilette.jpg",
       "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1563810304/563041_99999_0099_002_100_0000_Light.jpg"
 
@@ -89,7 +89,7 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId2",
       "categoryname":"face",
-      "new":"false",
+      "new":false,
       "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1531751407/401268_99999_0099_001_100_0000_Light-Gucci-Bamboo-50ml-Eau-de-Parfum.jpg",
       "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1531751407/401268_99999_0099_002_100_0000_Light.jpg"
     },
@@ -104,7 +104,7 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId2",
       "categoryname":"face",
-      "new":"false",
+      "new":false,
       "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1554385508/586168_9PLP7_9502_001_100_0000_Light-502-Eadie-Scarlet-Rouge-Lvres-Satin-Lippenstift.jpg",
       "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1554385508/586168_9PLP7_9502_002_100_0000_Light.jpg"
     },
@@ -119,7 +119,7 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId3",
       "categoryname":"brush",
-      "new":"false",
+      "new":false,
       "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1554383706/586169_9PLP8_9301_001_100_0000_Light-301-Mae-Coral-Rouge-Lvres-Voile-Lippenstift.jpg",
       "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1554383706/586169_9PLP8_9301_002_100_0000_Light.jpg"
     },
@@ -134,7 +134,7 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId3",
       "categoryname":"brush",
-      "new":"false",
+      "new":false,
       "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1554987603/586170_9PLP9_9001_001_100_0000_Light-1-Joslyn-Clair-Baume-Lvres-Lip-Balm.jpg",
       "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1554987603/586170_9PLP9_9001_002_100_0000_Light-1-Joslyn-Clair-Baume-Lvres-Lip-Balm.jpg"
     },
@@ -149,7 +149,7 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId4",
       "categoryname":"nail",
-      "new":"false",
+      "new":false,
       "imgUrl": "",
       "imgUrl1": ""
     },
@@ -164,7 +164,7 @@
       "image": "IMAGEurl",
       "categoryid": "categoryId4",
       "categoryname":"nail",
-      "new":"false",
+      "new":false,
       "imgUrl": "",
       "imgUrl1": ""
     }
