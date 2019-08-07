@@ -137,36 +137,6 @@
       "new":false,
       "imgUrl":"http://media.gucci.com/style/DarkGray_South_0_160_316x316/1554987603/586170_9PLP9_9001_001_100_0000_Light-1-Joslyn-Clair-Baume-Lvres-Lip-Balm.jpg",
       "imgUrl1":"http://media.gucci.com/style/White_South_0_160_316x316/1554987603/586170_9PLP9_9001_002_100_0000_Light-1-Joslyn-Clair-Baume-Lvres-Lip-Balm.jpg"
-    },
-    {
-      "id": "1004",
-      "hits":"564",
-      "title": "nail",
-      "name": "golden",
-      "price": 555.00,
-      "desc": "sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe",
-      "stars": "1<NUMBER<5",
-      "image": "IMAGEurl",
-      "categoryid": "categoryId4",
-      "categoryname":"nail",
-      "new":false,
-      "imgUrl": "",
-      "imgUrl1": ""
-    },
-    {
-      "id": "10041",
-      "hits":"234",
-      "title": "powder",
-      "name": "golden",
-      "price": 545.00,
-      "desc": "sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe sddfhjkiuo werghuio qawe",
-      "stars": "1<NUMBER<5",
-      "image": "IMAGEurl",
-      "categoryid": "categoryId4",
-      "categoryname":"nail",
-      "new":false,
-      "imgUrl": "",
-      "imgUrl1": ""
     }
   ]
 }
