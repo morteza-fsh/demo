@@ -39,120 +39,103 @@
       "id": "1",
       "catId": "1",
       "name": "Primer & Foundation",
-      "slug": "primer-and-foundation",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "primer-and-foundation"
     },
     {
       "id": "2",
       "catId": "1",
       "name": "Concealer",
-      "slug": "concealer",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "concealer"
     },
     {
       "id": "3",
       "catId": "1",
       "name": "Blush",
-      "slug": "blush",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "blush"
     },
     {
       "id": "4",
       "catId": "1",
       "name": "Bronzer",
-      "slug": "bronzer",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "bronzer"
     },
     {
       "id": "5",
       "catId": "1",
       "name": "Finishing Powder",
-      "slug": "finish-powder",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "finish-powder"
     },
     {
       "id": "6",
       "catId": "1",
       "name": "Face Brushes",
-      "slug": "face-brushes",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "face-brushes"
     },
     {
       "id": "7",
       "catId": "1",
       "name": "Skincare",
-      "slug": "skincare",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "skincare"
     },
     {
       "id": "8",
       "catId": "2",
       "name": "Lipsticks",
-      "slug": "lipsticks",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "lipsticks"
     },
     {
       "id": "9",
       "catId": "2",
       "name": "Lip Gloss",
-      "slug": "lip-gloss",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "lip-gloss"
     },
     {
       "id": "10",
       "catId": "2",
       "name": "Lip Pencil",
-      "slug": "lip-pencil",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "lip-pencil"
     },
     {
       "id": "11",
       "catId": "2",
       "name": "Lip Brush",
-      "slug": "lip-brush",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "lip-brush"
     },
     {
       "id": "12",
       "catId": "3",
       "name": "Eyeshadows",
-      "slug": "eyeshadows",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "eyeshadows"
     },
     {
       "id": "13",
       "catId": "3",
       "name": "Mascara",
-      "slug": "mascara",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "mascara"
     },
     {
       "id": "14",
       "catId": "3",
       "name": "Eye Liner",
-      "slug": "eye-liner",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "eye-liner"
     },
     {
       "id": "15",
       "catId": "3",
       "name": "Eye Brushes",
-      "slug": "eye-brushes",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "eye-brushes"
     },
     {
       "id": "15",
       "catId": "4",
       "name": "Base & Top Coat",
-      "slug": "base-and-top-coat",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "base-and-top-coat"
     },
     {
       "id": "16",
       "catId": "4",
       "name": "Nail Polish",
-      "slug": "nail-polish",
-      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
+      "slug": "nail-polish"
     }
   ],
   "singleProduct": {
