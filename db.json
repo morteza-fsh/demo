@@ -11,19 +11,23 @@
   "categories":[
     {
       "id" : "1",
-      "name":"lips"
+      "name":"lips",
+      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526806/CategorySingle_5964781DGOG6779_001_Light.jpg"
     },
     {
       "id" : "2",
-      "name":"face"
+      "name":"face",
+      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526806/CategorySingle_589769C9D002829_001_Light.jpg"
     },
     {
       "id" : "3",
-      "name":"brush"
+      "name":"brush",
+      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1563526805/CategorySingle_5738100OLFX8277_001_Light.jpg"
     },
     {
       "id" : "3",
-      "name":"nail"
+      "name":"nail",
+      "image": "https://media.gucci.com/content/LightGray_CategorySingle_Standard_600x600/1561133705/CategorySingle_5762020OLFG1096_001_Light.jpg"
     }
   ] ,
   "singleProduct": {
